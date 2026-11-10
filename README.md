@@ -73,3 +73,23 @@ never been executed. Treat them as untested starting points.
 - `data/raw/` the sample documents; `data/processed/`, `data/index/`, `data/app.db` and
   `data/demo_tokens.json` are generated and git-ignored. Demo tokens are for local testing only.
 "# enterprise-knowledge-intelligence-system" 
+
+## 📸 Application Screenshots
+
+### 1. Enterprise Knowledge Assistant Dashboard
+
+![Enterprise Knowledge Assistant Dashboard](screenshots/01-enterprise-dashboard.png)
+
+### 2. Policy Comparison with Version Tracking
+
+![Policy Comparison](screenshots/02-policy-comparison.png)
+
+### 3. Document-Based Question Answering
+
+![Document-Based Question Answering](screenshots/04-document-qa.png)
+
+### 4. RAG Application Execution
+
+![RAG Application Execution](screenshots/03-project-execution.png)
+
+---
